@@ -9,7 +9,7 @@ void main()
 	printf("Enter the Radius of the circle \n");
 	scanf("%f",&r);
 	
-	ar = 2 * pi * r *r;
+	ar = pi * r *r;
 	cf = 2 * pi * r;
 	
 	printf("Area of the circle is %f ",ar);
